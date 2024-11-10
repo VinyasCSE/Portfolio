@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.8bf6f4a8.css",
-    "main.js": "/Portfolio/static/js/main.748a00af.js",
+    "main.js": "/Portfolio/static/js/main.99d23a97.js",
     "static/media/Vinyas.jpeg": "/Portfolio/static/media/Vinyas.84cda8e2402c3c869687.jpeg",
     "static/media/reservation-form.png": "/Portfolio/static/media/reservation-form.832532681ceb32753760.png",
     "static/media/Project4.jpg": "/Portfolio/static/media/Project4.8de82fea50154dddbe24.jpg",
@@ -11,10 +11,10 @@
     "static/media/chat.png": "/Portfolio/static/media/chat.0c2f3b66a85052f1ecfc.png",
     "index.html": "/Portfolio/index.html",
     "main.8bf6f4a8.css.map": "/Portfolio/static/css/main.8bf6f4a8.css.map",
-    "main.748a00af.js.map": "/Portfolio/static/js/main.748a00af.js.map"
+    "main.99d23a97.js.map": "/Portfolio/static/js/main.99d23a97.js.map"
   },
   "entrypoints": [
     "static/css/main.8bf6f4a8.css",
-    "static/js/main.748a00af.js"
+    "static/js/main.99d23a97.js"
   ]
 }
