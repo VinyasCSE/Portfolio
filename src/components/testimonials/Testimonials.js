@@ -23,7 +23,7 @@ const Testimonials = () => {
     {
       id: 2,
       link: '',
-      name: 'Manjesh',
+      name: 'Manjesh kpt',
       role: 'Full-stack developer | Technical Support Engineer at Microverse',
       test: "It was a pleasure collaborating with kavana on different projects. One of the things that I think is special about him is that he never settles, even after completing the projects he finds other resources and strengthens him knowledge. Collaborating with him is easy and comfortable, it's like working with someone you've known for a long period of time.",
     },
